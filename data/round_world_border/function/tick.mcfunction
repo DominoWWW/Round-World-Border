@@ -1,3 +1,5 @@
+execute unless data storage round_world_border:data {enable:1b} run return 1
+
 function round_world_border:check_border with storage round_world_border:data
 
 execute as @e[tag=rwb.kill] unless score @s rwb.kill matches -2147483648..2147483647 run scoreboard players set @s rwb.kill 100
