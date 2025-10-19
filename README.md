@@ -1,6 +1,6 @@
 # Round World Border
 ## Download: [Releases Page](https://github.com/DominoWWW/Round-World-Border/releases)
-#### Minecraft Version: 1.21.x
+#### Minecraft Version: 1.21.10
 Round World Border is a Minecraft Datapack that allows a round world border.
 ## Features
 - Adds a circular world border to the Overworld and Nether.
