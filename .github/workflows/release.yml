@@ -7,13 +7,10 @@ on:
       - main
 
 env:
-  VERSION: 1.1.0
-  MINECRAFT_VERSION: 1.21.10
+  VERSION: 1.1.1
+  MINECRAFT_VERSION: 1.21.11
   NOTES: |
-    - Uninstall feature.
-    - Added support for Nether dimension.
-    - Added pack icon.
-    - Fixed bugs.
+    - Updated to Minecraft 1.21.11
 
 jobs:
   zip-and-release:
